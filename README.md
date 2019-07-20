@@ -1,2 +1,2 @@
-# dog_breed_classifier
+# dog-breed-classifier
 Machine Learning Nanodegree - Project 4
